@@ -50,6 +50,7 @@
 </style>
 
 <h1 class="text-2xl font-bold mb-1">Dashboard</h1>
+
 <div class="alert alert-error max-w-lg mt-2">
   <div>
     <div class="font-bold">Start a New Round</div>
